@@ -1,4 +1,4 @@
-Sorting Algorithms in Python
+**Sorting Algorithms in Python**
 
 This repository contains implementations of several fundamental sorting algorithms in Python. These implementations are intended for learning and demonstration purposes.
 
